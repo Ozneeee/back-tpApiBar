@@ -23,6 +23,7 @@ __**Je recommande de tester le projet avec le front-end.**__ Pour la documentati
 - POST : "/createBar" -> BODY: bar.model.js
 - DELETE : "/:barId"
 - PUT : "/update/:barId" -> BODY: bar.model.js
+- GET POST DELETE PUT sur /beer en cour
 
 ---
 
