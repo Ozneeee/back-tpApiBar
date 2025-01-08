@@ -15,7 +15,7 @@ Web Application de gestion de bars, de boissons et de commandes.
 Ceci est un projet scolaire réalisé avec Diginamic dans un but d'apprentissage
 Réalisé en ~ 7h. (front & back)
 
-**Je recommande de tester le projet avec le front-end.** Pour la documentation du font end [cliquez ici](https://github.com/Ozneeee/front-tp-api-bar.git)
+__**Je recommande de tester le projet avec le front-end.**__ Pour la documentation du font end [cliquez ici](https://github.com/Ozneeee/front-tp-api-bar.git)
 
 # Routes
 
