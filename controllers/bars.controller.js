@@ -65,10 +65,10 @@ const updateBar = async (req, res) => {
     const barFound = await Bar.findByIdAndUpdate(
       barId,
       { name: name },
-      { name: tel },
-      { name: adresse },
-      { name: email },
-      { name: description },
+      { tel: tel },
+      { adresse: adresse },
+      { email: email },
+      { description: description },
       { new: true }
     );
 
